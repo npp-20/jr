@@ -1,1 +1,5 @@
-npp nie
+npp 
+nie
+ping
+
+hot
